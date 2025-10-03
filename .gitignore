@@ -163,3 +163,4 @@ cython_debug/
 todo.md
 my_todo.md
 venv/
+data/creditcard.csv
